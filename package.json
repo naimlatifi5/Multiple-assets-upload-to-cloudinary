@@ -1,0 +1,28 @@
+{
+  "name": "cloudinaryassets",
+  "version": "1.0.0",
+  "description": "Cloudinary assets upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naimlatifi5/Multiple-assets-upload-to-cloudinary.git"
+  },
+  "dependencies": {
+    "cloudinary": "^1.13.2",
+    "fs": "0.0.1-security"
+  },
+  "keywords": [
+    "cloudinary",
+    "assets",
+    "upload"
+  ],
+  "author": "Naim Latifi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naimlatifi5/Multiple-assets-upload-to-cloudinary/issues"
+  },
+  "homepage": "https://github.com/naimlatifi5/Multiple-assets-upload-to-cloudinary#readme"
+}
